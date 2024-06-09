@@ -1,4 +1,3 @@
-////////////////Transaction Class
 class transaction;
   
   bit newd;                   // Flag for new transaction
